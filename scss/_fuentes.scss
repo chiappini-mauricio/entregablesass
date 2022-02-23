@@ -1,0 +1,14 @@
+$pDesktop:1000px;
+$fontFamily: 'poppins';
+
+
+.footer-dark{
+	p{
+	font:{
+		size:$pDesktop;
+		family:$fontFamily;
+		weight:bold;
+		}
+	}
+
+} 
